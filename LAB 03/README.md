@@ -135,18 +135,4 @@ After completing this lab, I should be able to:
 
 ---
 
-## 👨‍💻 Author
 
-**Student:** __________________________
-**Roll No:** __________________________
-**Section:** __________________________
-
----
-
-## 📅 Lab Information
-
-**Lab:** 03
-**Topic:** Introduction to Classes & Objects
-**Semester:** Spring 2026
-**Course:** CL-1004 Object Oriented Programming
-**Marks:** /35
